@@ -2,7 +2,7 @@ var argv = require("minimist")(process.argv.slice(2));
 
 const depth = argv._[0] - 1;
 
-/*
+/*  Example:
 0   1
 1   1 1
 2   1 2 1
