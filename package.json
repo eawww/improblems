@@ -1,0 +1,14 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "description": "my brain needs to not be stupid",
+  "main": "pascalsTriangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
